@@ -1,6 +1,6 @@
 # Stopwatch Web Application
 
-This project is developed as part of SkillCraft Technology Internship Task 02.
+This is a simple and interactive Stopwatch Web Application developed using HTML, CSS, and JavaScript.
 
 ## Features
 - Start, Pause, Reset Stopwatch
@@ -11,6 +11,9 @@ This project is developed as part of SkillCraft Technology Internship Task 02.
 - HTML
 - CSS
 - JavaScript
+
+## GitHub Repository
+https://github.com/sangeetarkumbar3-stack/SCT_WD_2
 
 ## Live Demo
 https://sangeetarkumbar3-stack.github.io/SCT_WD_2/
