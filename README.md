@@ -13,4 +13,4 @@ This project is developed as part of SkillCraft Technology Internship Task 02.
 - JavaScript
 
 ## Live Demo
-(Paste your link here)
+https://sangeetarkumbar3-stack.github.io/SCT_WD_2/
